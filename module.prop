@@ -1,6 +1,6 @@
 id=unifiednlp_aosp_enabler
 name=UnifiedNLP AOSP Enabler
-version=v0.0.1
+version=v0.0.4
 versionCode=1
 author=misaka4e21 and xz-dev
 description=Enable UnifiedNLP on AOSP-based ROMs.
